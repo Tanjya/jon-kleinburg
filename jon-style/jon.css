@@ -1,0 +1,21 @@
+.header{
+    height: 200px;
+    /* background-image: url(tanji.png); */
+    background-image: url(../img/tomholland.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: center;
+    
+    background-blend-mode: multiply;
+}
+h3{
+    color: magenta;
+}
+p{
+    color: rgb(210, 202, 219);
+}
+.page-title{
+    color: brown;
+    font-weight: 900;
+    font-family: sans-serif;
+}
